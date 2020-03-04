@@ -12,5 +12,8 @@
     "node-telegram-bot-api": "^0.40.0",
     "rss-feed-emitter": "^2.0.1",
     "rss-parser": "^3.7.5"
+  },
+  "devDependencies": {
+    "lodash": ">=4.17.12"
   }
 }
