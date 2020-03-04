@@ -1,0 +1,16 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WoodMan",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0",
+    "rss-feed-emitter": "^2.0.1",
+    "rss-parser": "^3.7.5"
+  }
+}
