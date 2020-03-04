@@ -13,6 +13,6 @@ for (let list of config.webList) {
 }
 
 feeder.on('new-item', (item) => {
-    const text = `${item.meta.title}\n${item.title}\n LINK:\n ${item['rss:link']['#']}`
+    const text = `${item.meta.title}\n${item.title}\nLINK:\n${item['rss:link']['#']}`
     bot.sendMessage(config.telegram.chatID, text)
 })
