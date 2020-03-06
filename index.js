@@ -8,7 +8,7 @@ const bot = new TelegramBot(config.telegram.token, { polling: true })
 for (let list of config.webList) {
     feeder.add({
         url: list,
-        refresh: 2000
+        refresh: 20000
     })
 }
 

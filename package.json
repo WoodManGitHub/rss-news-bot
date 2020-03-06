@@ -11,6 +11,7 @@
   "dependencies": {
     "node-telegram-bot-api": "^0.40.0",
     "rss-feed-emitter": "^2.0.1",
-    "rss-parser": "^3.7.5"
+    "rss-parser": "^3.7.5",
+    "sleep": "^6.1.0"
   }
 }
