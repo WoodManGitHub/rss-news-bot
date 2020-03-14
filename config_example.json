@@ -8,5 +8,8 @@
         "https://www.bnext.com.tw/rss",
         "https://technews.tw/tn-rss/",
         "https://ithome.com.tw/rss"
+    ],
+    "admin": [
+        "userID"
     ]
 }
