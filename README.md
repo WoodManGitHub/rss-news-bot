@@ -9,5 +9,8 @@
 2. Edit config_example.json and rename it config.json. 
 ```
 
+# Command
+`/addrss <rssURL>`
+
 # Todo
 - [ ] Web
